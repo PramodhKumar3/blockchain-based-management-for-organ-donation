@@ -125,7 +125,7 @@ Install gitbash from https://gitforwindows.org/
    ```
 3. Traverse into the app folder.
    ```sh
-   cd organ-donation-platform/app
+   cd blockchain-based-management-for-organ-donation/app
    ```
 4. Install npm dependencies.
    ```sh
