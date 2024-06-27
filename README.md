@@ -121,7 +121,7 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/rahulsabinkar/organ-donation-platform.git
+   https://github.com/Pramodh9653/blockchain-based-management-for-organ-donation.git
    ```
 3. Traverse into the app folder.
    ```sh
