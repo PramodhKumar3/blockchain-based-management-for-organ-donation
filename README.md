@@ -152,7 +152,7 @@ Now that everything is set-up, you can run the server.
 
 ## Team Members
 
-* [Pramodh Kumar](https://github.com/Pramodh9653)
+* [Pramodh Kumar](https://github.com/PramodhKumar3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
